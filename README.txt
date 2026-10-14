@@ -26,12 +26,5 @@ Ao lado do .exe:
 - hub_config.json : suas configurações, lista de jogos e favoritos
 - covers          : as capas baixadas (precisa de internet para baixar)
 
-PARA QUEM QUISER GERAR O .EXE (opcional)
-Aqui sim precisa de Python, só para gerar o arquivo.
-1. Instale o Python em python.org e marque "Add to PATH".
-2. Deixe o "build_exe.bat" e o "emu_hub.py" na mesma pasta.
-3. Dê dois cliques no "build_exe.bat".
-4. O programa pronto aparece em: dist\Project U.R.L.exe
-
 LICENÇA
 MIT (veja o arquivo LICENSE).
